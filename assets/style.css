@@ -1,0 +1,19 @@
+.title span{
+    font-size: 22px;
+}
+.midia-img{
+    max-width: 60%;
+}
+.midia-sobre{
+    max-width: 35%;
+    font-size: 14px;
+}
+.title2 span{
+    font-size: 18px;
+}
+footer{
+    height: 80px;
+}
+.footer{
+    height: 100%;
+}
